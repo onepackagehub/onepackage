@@ -1,0 +1,7 @@
+[requires]
+nlohmann_json/3.10.3
+fmt/8.0.1
+argparse/2.2
+
+[generators]
+cmake
